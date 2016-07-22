@@ -1,0 +1,69 @@
+<config>
+	<videos>
+		<video name="army_vehicle.mp4">
+			<class index="3"/>
+		</video>
+		<video name="car.mp4">
+			<class index="5"/>
+		</video>
+		<video name="explosion.mp4">
+			<class index="8"/>
+		</video>
+		<video name="helicopter.mp4">
+			<class index="10"/>
+		</video>
+		<video name="launcher.mp4">
+			<class index="6"/>
+		</video>
+		<video name="people.mp4">
+			<class index="0"/>
+		</video>
+		<video name="rifle.mp4">
+			<class index="7"/>
+		</video>
+		<video name="ship.mp4">
+			<class index="9"/>
+		</video>
+		<video name="soldier_with_rifle.mp4">
+			<class index="1"/>
+			<class index="7"/>
+		</video>
+		<video name="soldier.mp4">
+			<class index="1"/>
+			<class index="7"/>
+		</video>
+		<video name="tank.mp4">
+			<class index="2"/>
+		</video>
+		<video name="truck.mp4">
+			<class index="4"/>
+		</video>
+		<video name="ship_helicopter.mp4">
+			<class index="9"/>
+			<class index="10"/>
+		</video>
+		<video name="tank_soldier.mp4">
+			<class index="1"/>
+			<class index="2"/>
+		</video>
+		<video name="truck_car.mp4">
+			<class index="4"/>
+			<class index="5"/>
+		</video>
+		<video name="truck_people.mp4">
+			<class index="4"/>
+			<class index="0"/>
+		</video>
+	</videos>
+	<devices>
+		<device ip="192.168.1.210"/>
+		<deivce ip="192.168.1.250"/>
+		<deivce ip="192.168.1.220"/>
+		<deivce ip="192.168.1.225"/>
+	</devices>
+	<settings>
+		<setting name="transfer_speed" value="10"/>
+		<setting name="mobile_speed" value="2000000"/>
+		<setting name="server_speed" value="285714286"/>
+	</settings>
+</config>
